@@ -6,12 +6,7 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-//hello
-//hello 
-//Kak dela? 
-//How are you?
-//i'm fine
-//uuu
+//hello fedor
 
 namespace Controller
 {
